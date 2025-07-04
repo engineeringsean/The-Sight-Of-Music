@@ -16,6 +16,8 @@ Bass-only versions were produced via filtering (discussed below).
 
 Spectrograms revealed visual differences across versions, highlighting vocal suppression and bass prominence.
 
+![Spectrograms of Filtered Songs](https://github.com/engineeringsean/The-Sight-Of-Music/blob/main/Spectrogram%20Project.png)
+
 ### Periodogram Analysis:
 
 Used periodogram() to analyze the frequency power distribution across conditions.
@@ -23,6 +25,8 @@ Used periodogram() to analyze the frequency power distribution across conditions
 Visualized frequency magnitudes to compare how much energy was present in low vs. high frequencies.
 
 Highlighted how voice types (e.g., Barry White’s deep vocals) influence frequency profiles and perceived sound energy.
+
+![Periodograms of Filtered Songs](https://github.com/engineeringsean/The-Sight-Of-Music/blob/main/Periodogram%20Project.png)
 
 ### Frequency Filtering:
 
