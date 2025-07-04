@@ -16,14 +16,6 @@ Bass-only versions were produced via filtering (discussed below).
 
 Spectrograms revealed visual differences across versions, highlighting vocal suppression and bass prominence.
 
-### Frequency Filtering:
-
-Applied bandpass() filter (20–200 Hz) to isolate bass frequencies.
-
-This filtering reduced most instrumental and vocal content, helping visualize and listen to low-end components.
-
-Resulting audio was perceptually quieter, emphasizing the need for gain adjustments in filtered signals.
-
 ### Periodogram Analysis:
 
 Used periodogram() to analyze the frequency power distribution across conditions.
@@ -31,6 +23,14 @@ Used periodogram() to analyze the frequency power distribution across conditions
 Visualized frequency magnitudes to compare how much energy was present in low vs. high frequencies.
 
 Highlighted how voice types (e.g., Barry White’s deep vocals) influence frequency profiles and perceived sound energy.
+
+### Frequency Filtering:
+
+Applied bandpass() filter (20–200 Hz) to isolate bass frequencies.
+
+This filtering reduced most instrumental and vocal content, helping visualize and listen to low-end components.
+
+Resulting audio was perceptually quieter, emphasizing the need for gain adjustments in filtered signals.
 
 ## Outcomes & Applications:
 
