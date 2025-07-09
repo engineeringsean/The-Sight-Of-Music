@@ -1,4 +1,4 @@
-# The-Sight-Of-Music
+# The Sight Of Music
 
 ## Description:
 
